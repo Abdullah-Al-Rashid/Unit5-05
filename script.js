@@ -10,4 +10,4 @@ function calculate () {
   number = number * number
   // Displays final answer
   alert(number)
-} 
+}
